@@ -9,4 +9,6 @@ obfuskasyõ pitõ
 
 
 ## bash  
-ctrlZ, fg  
+ctrlZ  
+fg  
+`jobs`
