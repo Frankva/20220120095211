@@ -12,3 +12,11 @@ obfuskasyõ pitõ
 ctrlZ  
 fg  
 `jobs`
+
+## vim
+modifi le make pör pitõ
+``` vim
+:compiler pyunit
+:set makeprg=python3\ %
+:make
+```
