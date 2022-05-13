@@ -35,3 +35,14 @@ modifi le make pör pitõ
 :set makeprg=python3\ %
 :make
 ```
+## sql
+```sql
+show databases;
+use nameDB;
+show tables;
+select * from nameTable;
+delete from nametable where colomnam=value;
+
+
+
+```
